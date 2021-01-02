@@ -2,12 +2,13 @@
 
 # First Quater Goal [Jan 2021 , Feb 2021 , March 2021]
 - [ ] Word Power Made Easy Need to complete. By 31 Jan 2021
-- [ ] DataCamp R Programming [15 Jan 2021]
-- [ ] DataCamp Importing and Cleaning Data [31 Jan 2021]
+- [ ] DataCamp Skill Track R Programming [15 Jan 2021]
+- [ ] DataCamp Skill Track Importing and Cleaning Data [31 Jan 2021]
 - [ ] Need to achieve Git55(5cmd git commit for 5 months) via 	 Git530(5 cmd git commit for 30 days) [Jan2021]
 - [ ] Preparation for Field work.
 - [ ] Monitoring of Field work. [March2021]
 - [ ] Need to achieve Git55(5cmd git commit for 5 months) via 	 Git530(5 cmd git commit for 30 days) [Feb 2021]
+- [ ] DataCamp Career Track R Programmer [15 Feb 2021]
 - [ ] Need to achieve Git55(5cmd git commit for 5 months) via 	 Git530(5 cmd git commit for 30 days) [March 2021]
 
 
