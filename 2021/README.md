@@ -4,8 +4,11 @@
 - [ ] Word Power Made Easy Need to complete. By Jan 2021
 - [ ] Preparation for Field work.
 - [ ] Monitoring of Field work. [March2021]
+- [ ] Need to achieve Git55(5cmd git commit for 5 months) via 	 Git530(5 cmd git commit for 30 days) [Jan2021]
 - [ ] this is first goal
-- [ ] this is first goal
+- [ ] Need to achieve Git55(5cmd git commit for 5 months) via 	 Git530(5 cmd git commit for 30 days) [Feb 2021]
+- [ ] Need to achieve Git55(5cmd git commit for 5 months) via 	 Git530(5 cmd git commit for 30 days) [March 2021]
+
 
 
 # Second Quater Goal [Apr 2021 , May 2021 , June 2021]
