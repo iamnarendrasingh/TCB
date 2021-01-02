@@ -1,22 +1,18 @@
-# 2021 A new year with a new goal.
+# 2022 A new year with a new goal.
 
-# First Quater Goal [Jan 2021 , Feb 2021 , March 2021]
-- [ ] Word Power Made Easy Need to complete. By Jan 2021
-- [ ] Preparation for Field work.
-- [ ] Monitoring of Field work. [March2021]
+# First Quater Goal [Jan 2022 , Feb 2022 , March 2022]
 - [ ] this is first goal
 - [ ] this is first goal
 
 
-# Second Quater Goal [Apr 2021 , May 2021 , June 2021]
-- [ ] Preparation for Field work.
+# Second Quater Goal [Apr 2022 , May 2022 , June 2022]
 - [ ] this is first goal
 - [ ] this is first goal
 - [ ] this is first goal
 
 
 
-# Third Quater Goal [July 2021 , Aug 2021 , Sept 2021]
+# Third Quater Goal [July 2022 , Aug 2022 , Sept 2022]
 - [ ] Preparation for Field work.
 - [ ] this is first goal
 - [ ] this is first goal
@@ -25,7 +21,7 @@
 
 
 
-# Fourth Quater Goal [Oct 2021 , Nov 2021 , Dec 2021]
+# Fourth Quater Goal [Oct 2022 , Nov 2022 , Dec 2022]
 - [ ] this is first goal
 - [ ] this is first goal
 - [ ] this is first goal
