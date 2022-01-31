@@ -2,6 +2,7 @@
 
 # First Quater Goal [Jan 2022 , Feb 2022 , March 2022]
 - [ ] VMOU Master Degree Learn C , DSA , System programming
+- [ ] cmd git programming
 
 
 
