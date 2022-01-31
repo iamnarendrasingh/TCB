@@ -1,8 +1,8 @@
 # 2022 A new year with a new goal.
 
 # First Quater Goal [Jan 2022 , Feb 2022 , March 2022]
-- [ ] this is first goal
-- [ ] this is first goal
+- [ ] VMOU Master Degree Learn C , DSA , System programming
+
 
 
 # Second Quater Goal [Apr 2022 , May 2022 , June 2022]
