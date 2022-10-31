@@ -4,4 +4,4 @@ This is basic setup of Dashboard creation in Python
 
 OS : Windows
 
-Day1: Setup of basic software 
+Day1("01_Setup.md"): Setup of basic software 
