@@ -15,22 +15,22 @@ Step 4. Downlaod and installed Github CLI from <a href = "https://cli.github.com
 Now you alredy installed and setup CLI on your system. Here we need to open CLI with admin privilege 
 
 <h2> Important command of Git </h2>
-<h3> git status </h3>
-<h3> git add * </h3>
-<h3> git commit * </h3>
-<h3> git push origin main </h3>
+git status  <br/>
+git add *  <br/>
+git commit *  <br/>
+git push origin main <br/>
 
 <h2> Installing important package of python </h2>
 
-pip install dash
-pip install jupyter-dash
-pip install pandas
-pip install notebook
-pip install jupyterlab
-pip install voila
-pip install pyODK
-pip install odk2stata
-pip install centralpy
+pip install dash <br/>
+pip install jupyter-dash <br/>
+pip install pandas <br/>
+pip install notebook <br/>
+pip install jupyterlab <br/>
+pip install voila <br/>
+pip install pyODK <br/>
+pip install odk2stata <br/>
+pip install centralpy <br/>
 
 
 Ref: 
