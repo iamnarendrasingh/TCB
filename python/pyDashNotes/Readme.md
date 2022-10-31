@@ -4,4 +4,4 @@ This is basic setup of Dashboard creation in Python
 
 OS : Windows
 
-Day1("01_Setup.md"): Setup of basic software 
+<a href = "\01_Setup.md" > Day1: Setup of basic software </a>
