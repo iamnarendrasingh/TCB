@@ -16,6 +16,7 @@ Now you alredy installed and setup CLI on your system. Here we need to open CLI 
 
 <h2> Important command of Git </h2>
 git status  <br/>
+git pull  <br/>
 git add *  <br/>
 git commit *  <br/>
 git push origin main <br/>
